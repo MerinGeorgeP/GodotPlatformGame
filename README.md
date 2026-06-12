@@ -1,6 +1,12 @@
 # 🎮 Platform Game
 
 A simple 2D platformer built using Godot 4 and GDScript.
+<img width="574" height="327" alt="image" src="https://github.com/user-attachments/assets/b87f9ed4-e4ab-4a74-9e6d-fc4f19d41732" />
+<img width="728" height="412" alt="image" src="https://github.com/user-attachments/assets/a39bf1ba-c3fc-4090-8095-4a8b2c710c8a" />
+<img width="723" height="404" alt="image" src="https://github.com/user-attachments/assets/590033af-93e0-4162-bccc-5fd50333f195" />
+
+
+
 
 ## 📖 About
 
